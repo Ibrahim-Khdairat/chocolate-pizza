@@ -1,0 +1,227 @@
+
+
+
+
+
+#one
+{ display: block;
+    float: auto;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+#one span:first-child
+{
+    font-size: xx-large;
+    font-family: 'Pacifico', cursive;
+}#one span:last-child
+{
+
+    font-size: x-small;
+    font-family: 'Architects Daughter', cursive;
+font-family: 'IBM Plex Mono', monospace;
+color: gray;
+}
+
+article:first-child h1
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    margin-bottom: 4px;
+}
+
+article:first-child p
+{
+    font-size: small;
+    font-family: 'Architects Daughter', cursive;
+font-family: 'IBM Plex Mono', monospace;
+    color: gray;
+}
+
+header div:last-child
+{
+    display: block;
+    float: right;
+margin-top: -30px;
+}
+header div:last-child img:nth-child(6)
+{
+    margin-right: 5px;
+}
+
+
+
+
+header 
+{
+    height: 70px;
+    
+    width: 725px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+section
+{
+    width: 725px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer
+{
+    width: 725px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: -19px;
+}
+
+article:first-child span
+{
+    display: block;
+    float: right;
+    margin-top: -20px;
+    color: gray;
+}
+
+article:first-child
+{
+    margin-bottom: 20px;
+}
+article:nth-child(2) img
+{
+    width: 100%;
+   
+}
+article:nth-child(2)
+{
+    margin-bottom: 20px;
+
+}
+
+article:nth-child(3) p
+{
+    width: 725px;
+    margin-bottom: 20px;
+    text-indent: 35px;
+    text-align: justify;
+
+
+}
+
+
+article:nth-child(4)
+{
+height: 300px;
+margin-bottom: 20px;
+
+}
+article:nth-child(4) ul 
+{
+display: block;
+
+
+}
+article:last-child
+{
+    width: 725px;
+margin-bottom: 60px;
+}
+
+article:last-child div
+{
+display: block;
+float: auto;
+width: 500px;
+margin-left: 85px;
+margin-top: -70px;
+
+
+}
+article:last-child div h4
+{
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+article:last-child button
+{
+    float: right;
+    height: 40px;
+    width: 150px;
+    margin-top: -50px;
+    background-color: #e62e00;
+    color: white;
+    border-style: none;
+}
+
+#firstHr
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 725px;
+    height: 10px;
+    margin-bottom: 30px;
+}
+#sectHr
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 725px;
+    height: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+footer img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    box-shadow: honeydew ;
+}
+footer p
+{
+    text-align: center;
+    color: gray;
+    
+}
+
+#lasthr
+{
+    width: 725px;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+}
+
+ul li 
+{
+    list-style: none;
+font-size: 20px;
+padding-bottom: 15px;
+font-family: 'Architects Daughter', cursive;
+}
+
+#input1
+{
+
+    display: block;
+    float: left;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+#input2
+{
+    display: block;
+    float: right;
+    width: 340px;
+    margin-top: 40px;
+
+}
